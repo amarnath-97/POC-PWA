@@ -19,8 +19,8 @@
     "display": "standalone",
     "dir": "auto",
     "lang": "en-US",
-    "name": "Namaste PWA",
-    "short_name": "NPWA",
+    "name": "POC PWA",
+    "short_name": "POC PWA",
     "start_url": "/",
     "scope": "/"
 }
